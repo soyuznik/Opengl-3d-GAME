@@ -1,9 +1,9 @@
 Ricochet Physics Simulation
 
 This project is a 3D first-person simulation built from scratch using C++ and OpenGL. It demonstrates a custom physics implementation for ballistics, specifically focusing on projectile reflection (ricochets), energy absorption, and collision detection against environmental geometry.
-The archived repository [here](https://github.com/soyuznik/OpenGL-First-Person-Shooter) contains more changes that happened before this one.
-Visual Overview
+The archived repository [here](https://github.com/soyuznik/OpenGL-First-Person-Shooter) contains more changes that happened before this one.     
 
+<b> Visual Overview <b>
 <table>
 <tr>
 <th width="33%">High-Angle Ricochet</th>
