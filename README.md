@@ -11,9 +11,9 @@ Visual Overview
 <th width="33%">Vector Calculation</th>
 </tr>
 <tr>
-<td><img src="img/pic1.jpg" width="100%" alt="High-Angle Ricochet"></td>
-<td><img src="img/pic2.jpg" width="100%" alt="Velocity Absorption"></td>
-<td><img src="img/pic3.jpg" width="100%" alt="Vector Calculation"></td>
+<td><img src="img/pic1.png" width="100%" alt="High-Angle Ricochet"></td>
+<td><img src="img/pic2.png" width="100%" alt="Velocity Absorption"></td>
+<td><img src="img/pic3.png" width="100%" alt="Vector Calculation"></td>
 </tr>
 <tr>
 <td>
